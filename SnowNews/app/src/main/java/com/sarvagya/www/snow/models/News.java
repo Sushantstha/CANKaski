@@ -1,0 +1,41 @@
+package com.sarvagya.www.snow.models;
+
+public class News {
+
+    private String status;
+
+    private int totalResults;
+
+    private Articles articles;
+
+    public News(String status, int totalResults, Articles articles) {
+        this.status = status;
+        this.totalResults = totalResults;
+        this.articles = articles;
+    }
+
+
+    public String getStatus() {
+        return status;
+    }
+
+    public void setStatus(String status) {
+        this.status = status;
+    }
+
+    public int getTotalResults() {
+        return totalResults;
+    }
+
+    public void setTotalResults(int totalResults) {
+        this.totalResults = totalResults;
+    }
+
+    public Articles getArticles() {
+        return articles;
+    }
+
+    public void setArticles(Articles articles) {
+        this.articles = articles;
+    }
+}

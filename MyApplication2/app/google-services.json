@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "984458277351",
+    "firebase_url": "https://sample-205412.firebaseio.com",
+    "project_id": "sample-205412",
+    "storage_bucket": "sample-205412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984458277351:android:1b4b671b0d4afb59",
+        "android_client_info": {
+          "package_name": "com.tribikram.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984458277351-1c0jh3e50vv73876bk1o88fg8ml6mf1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tribikram.myapplication",
+            "certificate_hash": "84021be93df229946998e1c4bcecbbc2a18edadf"
+          }
+        },
+        {
+          "client_id": "984458277351-rcibp4t7fmseksu262c5o4ldpu22u30e.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "984458277351-rcibp4t7fmseksu262c5o4ldpu22u30e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwUdlXY49pV7jRyjEu_aAtMK4LUle1Sko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984458277351-rcibp4t7fmseksu262c5o4ldpu22u30e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

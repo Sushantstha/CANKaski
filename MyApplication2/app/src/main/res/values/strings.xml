@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello World!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank camera fragment</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="title_activity_basic">BasicActivity</string>
+
+    <string name="LongText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vulputate diam ac tempus posuere. Aenean pellentesque a mi et bibendum. Duis et mauris et nulla ultrices blandit. Nam ornare mattis tincidunt. Nam ornare blandit laoreet. Donec eleifend ante lacus. Maecenas pharetra enim mi, sed mollis orci pellentesque vel.
+
+Nam justo nunc, tincidunt id vestibulum eu, rutrum nec metus. Nulla vitae est quis sem sodales efficitur a sed est. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed sit amet tellus mattis, eleifend metus in, faucibus leo. Ut congue scelerisque lacus, eget efficitur justo cursus eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis finibus lacus nulla, id rutrum nibh bibendum eu.
+
+Cras lacinia ante at nisi ornare, vel luctus ligula lacinia. Cras ultricies, leo dapibus maximus mollis, elit turpis auctor massa, sed congue erat nisl non sem. Praesent malesuada aliquam erat, non mollis magna iaculis vel. Vestibulum interdum sagittis pellentesque. Etiam placerat, mi eu auctor suscipit, nisi lorem accumsan tellus, quis vestibulum neque diam vitae nunc. Vestibulum nec eros vitae felis sollicitudin tincidunt. Nulla vitae nisi sed neque blandit auctor. Praesent non pellentesque orci. Nulla luctus enim massa, sit amet rutrum tellus commodo id.
+
+Nam sed erat quis est dignissim mattis vitae eget ex. Integer vel ex ut tellus cursus dignissim. Nunc eu libero fermentum, dapibus enim sit amet, varius justo. Ut in leo ut risus consequat ornare. Fusce sit amet ornare nulla. Integer ut sollicitudin ante. Ut vel commodo ex. Vivamus luctus leo quis lectus pulvinar, non imperdiet turpis fermentum.
+
+Mauris turpis mi, iaculis ut malesuada eget, tincidunt a augue. Donec ut tellus efficitur, efficitur tortor vitae, mollis lacus. Donec turpis orci, ultrices eget nunc at, efficitur lacinia ipsum. Praesent eleifend mauris neque, vitae consequat nunc volutpat sit amet. Mauris mollis sapien vel tincidunt euismod. Proin urna sapien, aliquet a lacus a, convallis convallis mauris. Mauris accumsan tincidunt odio id volutpat.</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="section_format">Hello</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+    <string name="nav_camera">Camera</string>
+    <string name="nav_gallery">Gallery</string>
+    <string name="nav_setting">Setting</string>
+    <string name="title_activity_bottom_nav">BottomNavActivity</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

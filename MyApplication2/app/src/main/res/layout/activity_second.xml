@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none"
+    tools:context="com.tribikram.myapplication.Activities.SecondActivity">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:focusable="false"
+    android:focusableInTouchMode="true"
+    android:padding="16dp"
+    >
+
+ <EditText
+     android:id="@+id/et_name"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:hint="Enter Name"/>
+
+    <EditText
+        android:id="@+id/et_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:hint="Enter Password"/>
+
+    <Button
+        android:id="@+id/btn_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save"/>
+
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@color/colorPrimary"
+        android:textSize="20sp"
+        android:textColor="@color/white"/>
+
+    <ImageButton
+        android:id="@+id/btn_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:background="?selectableItemBackground"
+        android:src="@drawable/ic_add"/>
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Switch" />
+
+    <Spinner
+       android:id="@+id/spinner"
+       android:layout_marginTop="8dp"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn_display"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Display value of spinner"/>
+
+    <DatePicker
+        android:id="@+id/date_picker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"/>
+
+   <Button
+       android:id="@+id/btn_display_date"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:backgroundTint="@color/colorPrimary"
+       android:text="Display date"
+       android:textColor="@color/white"/>
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:src="@drawable/android"
+        android:layout_gravity="center_horizontal"/>
+
+</LinearLayout>
+</ScrollView>
+
+

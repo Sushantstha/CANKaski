@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">CANKaski</string>
-    <string name="powered">Powered By</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="open_drawer">Open nav drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+    <string name="about">About</string>
+    <string name="blank" />
 </resources>

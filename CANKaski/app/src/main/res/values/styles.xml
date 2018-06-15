@@ -8,4 +8,21 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!-- Custom Toolbar -->
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- TextAppearance in collapsing toolbar -->
+    <style name="TransparentText" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">0sp</item>
+    </style>
+
+    <!--Theme for Toolbar -->
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
 </resources>
